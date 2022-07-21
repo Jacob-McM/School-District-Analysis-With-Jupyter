@@ -3,28 +3,37 @@
 ---
 >Using Pandas and Jupyter Notebook, create a report that includes the following data. 
 >>
-    >>**District Summary**: Create a high-level snapshot, in a DataFrame, of the district's key metrics.
+     District Summary: 
+    Create a high-level snapshot, in a DataFrame, of the district's key metrics.
 >>
-    >>**School Summary**: Create a DataFrame that summarizes key metrics about each school.
+     School Summary: 
+    Create a DataFrame that summarizes key metrics about each school.
 >>
-    >>**Highest-Performing Schools (by % Overall Passing)**: Create a DataFrame that highlights the top 5 performing schools based on % Overall Passing. 
+    >> Highest-Performing Schools (by % Overall Passing): 
+     Create a DataFrame that highlights the top 5 performing schools based on % Overall Passing. 
 >>
-    >>**Lowest-Performing Schools (by % Overall Passing)**: Create a DataFrame that highlights the bottom 5 performing schools based on % Overall Passing.
+     Lowest-Performing Schools (by % Overall Passing): 
+    Create a DataFrame that highlights the bottom 5 performing schools based on % Overall Passing.
 >>
-    >>**Math Scores by Grade**: Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+    Math Scores by Grade: 
+    Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 >>
-    >>**Reading Scores by Grade**: Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+    Reading Scores by Grade: 
+    Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 >>
-    >>**Scores by School Spending**: Create a table that breaks down school performance based on average spending ranges (per student).
+    Scores by School Spending: 
+    Create a table that breaks down school performance based on average spending ranges (per student).
 >>
-    >>**Scores by School Size**: Create a table that breaks down school performance based on school size (small, medium, or large).
+    Scores by School Size: 
+    Create a table that breaks down school performance based on school size (small, medium, or large).
 >>
-    >>**Scores by School Type**: Create a table that breaks down school performance based on type of school (district or charter)..
+    Scores by School Type: 
+    Create a table that breaks down school performance based on type of school (district or charter)..
 
 >Your report must include a written description of at least two observable trends based on the data.
 
 # Description
-  From the included `[schools_complete.csv]` and `[students_complete.csv]` this notebook analyses a school district of 15 schools based on the Tasks listed above in order to observe if there is any noticable trends across the schools, notably in their math and reading scores and the overall percentage of students passing in those subjects. That overall percentage of students passing is tested against several different circumstances from structred DataFrames. I think the notebook is well described within, so I think the most beneficial use of this description I can provide is the general layout of the notebook. As a point of order, I can only recommend someone familiar with Jupyter Notebook try and use or view this notebook. 
+  From the included [schools_complete.csv] and [students_complete.csv] this notebook analyses a school district of 15 schools based on the Tasks listed above in order to observe if there are any noticeable trends across the schools, notably in their math and reading scores and the overall percentage of students passing in those subjects. That overall percentage of students passing is tested against several different circumstances from structured DataFrames. I think the notebook is well described within, so I think the most beneficial use of this description I can provide is the general layout of the notebook. As a point of order, I can only recommend someone familiar with Jupyter Notebook try and use or view this notebook.
 
 Each italicized `[]` below is a broken up by a header with a brief summary of the goal of the code below it.
 
