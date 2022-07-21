@@ -79,6 +79,7 @@ For example:
 ---
 In regards to some of the DataFrames, I added some columns and cleaned up some of the long decimals. Notably, I added counts for each range found under the `[Scores by School Spending]`, `[Scores by School Size]`, and `[Scores by School Type]` into their own columns for stronger information visualization.
 
+Please be aware that trying to navigate the Notebook in GitHub through the internal links will not work.
 
 ### 
 
