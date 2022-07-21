@@ -84,7 +84,7 @@ In regards to some of the DataFrames, I added some columns and cleaned up some o
 
 ---
 # Contents
-Found in this repo is a Jupyter Source File that contains the notebook and a Resource Folder.
+Found in this repo is a Folder called PyCitySchool. Inside is a  Jupyter Source File that contains the notebook and a Resource Folder.
 Inside that Resource Folder are the two csv files `[schools_complete.csv]` and `[students_complete.csv]` that the notebook is dependant on for its data analysis. 
 
 All work done in this notebook was done in a specific designated kernel named PythonData38. 
